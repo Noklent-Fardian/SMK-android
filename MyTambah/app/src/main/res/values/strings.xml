@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTambah</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="masukan">Masukan</string>
+    <string name="angka_pertama">Angka Pertama</string>
+    <string name="angka_kedua">Angka Kedua</string>
+    <string name="jawaban_anda">Jawaban Anda</string>
+    <string name="cek">Cek</string>
+    <string name="hasil">hasil</string>
+    <string name="opr">+</string>
+    <string name="noklent_fardian_erix">Noklent Fardian Erix</string>
+    <string name="next">Next</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="send">send</string>
+    <string name="message">pesan</string>
+    <string name="subject">tema</string>
+    <string name="to">to</string>
+</resources>

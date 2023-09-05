@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hight_layout">100dp</dimen>
+    <dimen name="size_text20sp">20sp</dimen>
+    <dimen name="size_text40sp">40sp</dimen>
+    <dimen name="widht_edit">185dp</dimen>
+    <dimen name="widht_opr">39dp</dimen>
+</resources>
